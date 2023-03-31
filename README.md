@@ -4,7 +4,7 @@
 ### Olá Me Chamo Rafael Galvão
 [![likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-galv%C3%A3o-0562381b7/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.rafagalvaonull@gmail.com)
-[![Discor](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](RafaGalvão#1035)
+[![Discor](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([RafaGalvão#1035](https://discord.com/users/RafaGalv%C3%A3o#1035))
 
 ## Atualmente Estou Aprendendo🌱:
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
