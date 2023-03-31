@@ -11,6 +11,6 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGalvaodev&theme=blue-green)]()
 [![](https://emojipedia.org/seedling/)]()
 
-
+#
 <img align="right" src="https://user-images.githubusercontent.com/124510294/228619026-d93147fa-26c9-45d8-87dd-15454cfbb87d.gif" width="500" height="373"/>
 
