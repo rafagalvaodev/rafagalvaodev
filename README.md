@@ -13,6 +13,5 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RafaGalvaodev&bg_color=000000&color=ffffff&line=ffffff&point=00ffe1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 #
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGalvaodev&theme=blue-green)]()
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGalvaodev&langs_count=5&theme=blue-green)]()
 <img align="right" src="https://user-images.githubusercontent.com/124510294/228619026-d93147fa-26c9-45d8-87dd-15454cfbb87d.gif" width="500" height="373"/>
-
