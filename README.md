@@ -7,7 +7,7 @@
   <a href = "https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
 </div>
 <br>
-<h1 text-align="left"> Atualmente Estou Aprendendo🌱: </h1>
+<h1 text-align="left"> Atualmente Estou Estudando🌱: </h1>
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="7%">
