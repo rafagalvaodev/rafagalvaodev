@@ -22,7 +22,7 @@
 ##
 <br>
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGalvaodev&langs_count=5&theme=blue-green" / width="50%">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGalvaodev&langs_count=8&theme=blue-green" / width="50%">
   <img align="right" src="https://user-images.githubusercontent.com/124510294/228619026-d93147fa-26c9-45d8-87dd-15454cfbb87d.gif" / width="43%">
 </div>
 </body>
