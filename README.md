@@ -10,12 +10,14 @@
 <h1 text-align="left"> Atualmente Estou Estudando🌱: </h1>
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="7%">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="7%">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="7%">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="7%">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="7%">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="7%">
+    <img src="https://devicons.railway.app/i/python.svg" width="7%">
+    <img src="https://devicons.railway.app/i/csharp.svg" width="7%">
+    <img src="https://devicons.railway.app/i/java.svg" width="7%">
+    <img src="https://devicons.railway.app/i/ruby.svg" width="7%">
+    <br>
+    <img src="https://devicons.railway.app/i/javascript.svg" width="7%">
+    <img src="https://devicons.railway.app/i/html5.svg" width="7%">
+    <img src="https://devicons.railway.app/i/css3.svg" width="7%">
     
 </div>
 
