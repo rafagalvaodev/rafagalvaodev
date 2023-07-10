@@ -5,7 +5,6 @@
     <li>Sempre estudando novas <em>tecnologas e linguagens</em>.</li>
     <li>Gosto muito do <em>Back-End</em>, mas gostaria de ser um desenvolvedor <strong>FullStack</strong>.</li>
     <li>Em busca de <strong>uma oportunidade</strong> na área de desenvolvimento.</li>
-    <li></li>
 </ul>
 <hr>
 <h3>Minhas Skills:seedling::</h3>
