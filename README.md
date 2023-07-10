@@ -5,6 +5,7 @@
     <li>Sempre estudando novas <em>tecnologas e linguagens</em>.</li>
     <li>Gosto muito do <em>Back-End</em>, mas gostaria de ser um desenvolvedor <strong>FullStack</strong>.</li>
     <li>Em busca de <strong>uma oportunidade</strong> na área de desenvolvimento.</li>
+    <li></li>
 </ul>
 <hr>
 <h3>Minhas Skills:seedling::</h3>
@@ -21,24 +22,23 @@
 <hr>
 <h3>Ferramentas de Desenvolvimento:gear::</h3>
 <div align="center">
-    <table>
-            <tr>
-                <td>
-                    <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge">
-                    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge">            
-                    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge">                
-                    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge">
-                </td>         
-            </tr>
-            <tr>
-                <td>
-                    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge">
-                    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge">
-                    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge">
-                </td>
-            </tr>
-    </table>
-    
+<table>
+        <tr>
+            <td>
+                <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge">
+                <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge">            
+                <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge">                
+                <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge">
+            </td>         
+        </tr>
+        <tr>
+            <td>
+                <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge">
+                <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge">
+                <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge">
+            </td>
+        </tr>
+</table>
 </div>
 <hr>
 <div align="center">
