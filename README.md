@@ -7,7 +7,7 @@
     <li>Em busca de <strong>uma oportunidade</strong> na área de desenvolvimento.</li>
 </ul>
 <hr>
-<h3>Minhas Skills:seedling::</h3>
+<h3>Minhas Skills<img src="https://media.tenor.com/GINEuF-jScAAAAAj/sustainable-jimmy-joy.gif" width="50">:</h3>
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="100">
@@ -19,7 +19,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="100">
 </div>
 <hr>
-<h3>Ferramentas de Desenvolvimento:gear::</h3>
+<h3>Ferramentas de Desenvolvimento <img src="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-engrenagem-1.gif" width="30">:</h3>
 <div align="center">
 <table>
         <tr>
