@@ -1,5 +1,5 @@
 <hr>
-<h3>:wave:Olá, me chamo Rafael Galvão!!</h3>
+<h3><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30">Olá, me chamo Rafael Galvão!!</h3>
 <h3>Sobre mim:boy::</h3>
 <ul>
     <li>Sempre estudando novas <em>tecnologas e linguagens</em>.</li>
