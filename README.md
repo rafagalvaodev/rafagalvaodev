@@ -13,6 +13,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="100">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="100">
     <br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="100">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="100">
@@ -28,6 +29,7 @@
                 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge">            
                 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge">                
                 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge">
+                <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge">
             </td>         
         </tr>
         <tr>
