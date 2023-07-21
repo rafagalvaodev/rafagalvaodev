@@ -5,6 +5,12 @@
     <li>Sempre estudando novas <em>tecnologas e linguagens</em>.</li>
     <li>Gosto muito do <em>Back-End</em>, mas gostaria de ser um desenvolvedor <strong>FullStack</strong>.</li>
     <li>Em busca de <strong>uma oportunidade</strong> na área de desenvolvimento.</li>
+    <li>Em formação:
+        <ul type="square">
+            <li>Java/SpringBoot</li>
+            <li>C#/.Net</li>
+        </ul>
+    </li>
 </ul>
 <hr>
 <h3>Minhas Skills<img src="https://media.tenor.com/GINEuF-jScAAAAAj/sustainable-jimmy-joy.gif" width="50">:</h3>
