@@ -15,15 +15,14 @@
 <hr>
 <h3>Minhas Skills<img src="https://media.tenor.com/GINEuF-jScAAAAAj/sustainable-jimmy-joy.gif" width="50">:</h3>
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="100">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="100">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="100">
-    <br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="100">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="100">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="100">
+    <img src="https://www.svgrepo.com/show/373533/csharp2.svg" width="100">
+    <img src="https://www.svgrepo.com/show/452234/java.svg" width="100">
+    <img src="https://www.svgrepo.com/show/452091/python.svg" width="100">
+    <img src="https://www.svgrepo.com/show/452095/ruby.svg" width="100">
+    <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="100">
+    <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="100">
+    <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="100">
+    <img src="https://www.svgrepo.com/show/373535/css.svg" width="100">
 </div>
 <hr>
 <h3>Ferramentas de Desenvolvimento <img src="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-engrenagem-1.gif" width="30">:</h3>
