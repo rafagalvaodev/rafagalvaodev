@@ -1,6 +1,6 @@
 <hr>
 <h3><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30">Olá, me chamo Rafael Galvão!!</h3>
-<h3>Sobre mim <a href="https://www.linkedin.com/in/rafael-galv%C3%A3o-0562381b7/"  target="_blank">:boy:</a>:</h3>
+<h3>Sobre mim <a href="https://www.linkedin.com/in/rafael-galv%C3%A3o-0562381b7/" target="_blank">:boy:</a>:</h3>
 <ul>
     <li>Sempre estudando novas <em>tecnologas e linguagens</em>.</li>
     <li>Gosto muito do <em>Back-End</em>, mas gostaria de ser um desenvolvedor <strong>FullStack</strong>.</li>
