@@ -1,6 +1,6 @@
 <hr>
 <h3><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30">Olá, me chamo Rafael Galvão!!</h3>
-<h3>Sobre mim:boy::</h3>
+<h3>Sobre mim <a href="https://www.linkedin.com/in/rafael-galv%C3%A3o-0562381b7/"  target="_blank">:boy:</a>:</h3>
 <ul>
     <li>Sempre estudando novas <em>tecnologas e linguagens</em>.</li>
     <li>Gosto muito do <em>Back-End</em>, mas gostaria de ser um desenvolvedor <strong>FullStack</strong>.</li>
@@ -54,7 +54,5 @@
 <hr>
 <h3>Meus Contatos e Redes Sociais:</h3>
 <div>
-    <a href = "https://mail.rafagalvaonull@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href= "https://www.linkedin.com/in/rafael-galv%C3%A3o-0562381b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
+    <a href = "https://mail.rafagalvaonull@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
