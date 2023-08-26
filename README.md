@@ -51,8 +51,3 @@
     <img src="https://user-images.githubusercontent.com/124510294/228619026-d93147fa-26c9-45d8-87dd-15454cfbb87d.gif" width="49%" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGalvaodev&theme=blue-green&layout=compact" width="49%" >
 </div>
-<hr>
-<h3>Meus Contatos e Redes Sociais:</h3>
-<div>
-    <a href = "https://mail.rafagalvaonull@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-</div>
