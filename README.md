@@ -48,6 +48,9 @@
 </div>
 <hr>
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/124510294/228619026-d93147fa-26c9-45d8-87dd-15454cfbb87d.gif" width="49%" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGalvaodev&theme=blue-green&layout=compact" width="49%" >
+    <img src="https://user-images.githubusercontent.com/124510294/228619026-d93147fa-26c9-45d8-87dd-15454cfbb87d.gif" width="59%" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGalvaoDev&layout=donut-vertical&theme=blue-green" width="40%">
 </div>
+
+
+
