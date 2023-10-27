@@ -18,7 +18,6 @@
     <img src="https://www.svgrepo.com/show/373533/csharp2.svg" width="100">
     <img src="https://www.svgrepo.com/show/452234/java.svg" width="100">
     <img src="https://www.svgrepo.com/show/452091/python.svg" width="100">
-    <img src="https://www.svgrepo.com/show/452095/ruby.svg" width="100">
     <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="100">
     <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="100">
     <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="100">
