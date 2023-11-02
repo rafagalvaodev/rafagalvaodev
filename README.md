@@ -34,6 +34,7 @@
                 <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="100">
                 <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="100">
                 <img src="https://www.svgrepo.com/show/373535/css.svg" width="100">
+                <img src="https://www.svgrepo.com/show/376369/dotnet.svg" width="100">
             </td>
         </tr>
         <tr>
