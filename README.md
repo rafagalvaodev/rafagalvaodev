@@ -44,7 +44,7 @@
         
 </div>
 <hr>
-<h3>Ferramentas de Desenvolvimento <img src="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-engrenagem-1.gif" width="30">:</h3>
+<h3>Ferramentas de Desenvolvimento <img src="https://media.tenor.com/KvRIHOyJN-sAAAAi/gears-spinning.gif" width="30">:</h3>
 <div align="center">
 <table>
       <tr>
