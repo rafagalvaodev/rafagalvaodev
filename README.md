@@ -34,7 +34,6 @@
                 <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="100">
                 <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="100">
                 <img src="https://www.svgrepo.com/show/373535/css.svg" width="100">
-                <img src="https://www.svgrepo.com/show/376369/dotnet.svg" width="100">
             </td>
         </tr>
         <tr>
@@ -59,6 +58,7 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60">                     
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" style="margin-right: 20;">  
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="70">
+                <img src="https://www.svgrepo.com/show/376369/dotnet.svg" width="70">
             </td>         
         </tr>
         <tr>
