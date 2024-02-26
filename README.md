@@ -9,7 +9,7 @@
     <li>Em formação:
         <ul type="square">
             <li>Java/SpringBoot.</li>
-            <li>C#/.Net.</li>
+            <li>C#/.Net</li>
         </ul>
     </li>
 </ul>
