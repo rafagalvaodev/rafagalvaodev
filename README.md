@@ -17,7 +17,7 @@
 <h3>Objetivos <img src="https://media.tenor.com/XbovdtbA5mcAAAAi/direct-hit-joypixels.gif" width="30">:</h3>
 <ul type="square">
     <li>Hoje quero me desenvolver como profissional e programador.</li>
-    <li>Busco uma <em>oportunidade</em> de emprego como programador júnior.</li>
+    <li>Busco uma <em>oportunidade</em> de emprego como programador júnior ou estágio.</li>
 </ul>
 <hr>
 <h3>Minhas Skills<img src="https://media.tenor.com/GINEuF-jScAAAAAj/sustainable-jimmy-joy.gif" width="50">:</h3>
