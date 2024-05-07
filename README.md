@@ -8,7 +8,7 @@
     <li>Estou sempre estudando novas <em>tecnologas e linguagens</em>. No momento focado no <strong>Back-End.</strong></li>
     <li>Em formação:
         <ul type="square">
-            <li>Java/SpringBoot</li>
+            <li>Java/SpringBoot.</li>
             <li>C#/.Net</li>
         </ul>
     </li>
