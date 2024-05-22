@@ -54,6 +54,7 @@
             <td>
                 <img src="https://icon.icepanel.io/Technology/png-shadow-512/Eclipse-IDE.png" width="70">            
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="70">
+                <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png" width="70">
                 <img src="https://icon.icepanel.io/Technology/png-shadow-512/Microsoft-SQL-Server.png" width="70">                   
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60">                     
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" style="margin-right: 20;">  
