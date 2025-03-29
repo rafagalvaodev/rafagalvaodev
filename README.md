@@ -10,6 +10,7 @@
         <ul type="square">
             <li>Java/SpringBoot.</li>
             <li>C#/.Net.</li>
+            <li>C++/QT.</li>
         </ul>
     </li>
 </ul>
@@ -28,8 +29,9 @@
         </tr>
         <tr>
             <td>
-                <img src="https://www.svgrepo.com/show/373533/csharp2.svg" width="100">
                 <img src="https://www.svgrepo.com/show/452234/java.svg" width="100">
+                <img src="https://www.svgrepo.com/show/452183/cpp.svg" width="100">
+                <img src="https://www.svgrepo.com/show/373533/csharp2.svg" width="100">
                 <img src="https://www.svgrepo.com/show/452091/python.svg" width="100">
                 <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="100">
                 <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="100">
@@ -52,14 +54,23 @@
         </tr>
         <tr>
             <td>
+                <!--
                 <img src="https://icon.icepanel.io/Technology/png-shadow-512/Eclipse-IDE.png" width="70">            
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="70">
-                <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png" width="70">
-                <img src="https://icon.icepanel.io/Technology/png-shadow-512/Microsoft-SQL-Server.png" width="70">                   
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60">                     
+                -->
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" style="margin-right: 20;">  
+                <img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" width="70">
+                <img src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" width="70">
+                <img src="https://icon.icepanel.io/Technology/svg/Rider.svg" width="70">
+                <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" width="70">
+                <img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="70">
+                <!--
+                <img src="https://icon.icepanel.io/Technology/png-shadow-512/Microsoft-SQL-Server.png" width="70">                   
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60">
+                -->                     
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="70">
                 <img src="https://www.svgrepo.com/show/376369/dotnet.svg" width="70">
+                <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" width="70">
             </td>         
         </tr>
         <tr>
