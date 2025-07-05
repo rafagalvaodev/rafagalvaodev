@@ -1,6 +1,6 @@
 <hr>
 <div align="center">    
-    <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="270">      
+    <img src="https://www.technox-ets.org/web/image/slide.channel/129/image_512/Back-End%20Development?unique=41165d9" width="270">      
 </div>
 <h3 align="center"> <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30">Olá, me chamo Rafael Galvão!!</h3>  
 <h3>Sobre mim <a href="https://www.linkedin.com/in/rafael-galv%C3%A3o-0562381b7/" target="_blank">:boy:</a>:</h3>
@@ -81,6 +81,6 @@
 </div>
 <hr>
 <div align="center">
-    <img src="https://media.tenor.com/xY_rB1ZQ7D8AAAAd/the-isle-full-server.gif" width="59%" >
+    <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="59%" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGalvaoDev&layout=donut&theme=blue-green" width="40%">
 </div>
