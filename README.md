@@ -84,3 +84,12 @@
     <img src="https://media.tenor.com/xY_rB1ZQ7D8AAAAd/the-isle-full-server.gif" width="59%" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGalvaoDev&layout=donut&theme=blue-green" width="40%">
 </div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafagalvaodev/rafagalvaodev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafagalvaodev/rafagalvaodev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rafagalvaodev/rafagalvaodev/output/pacman-contribution-graph.svg">
+</picture>
+
+###
