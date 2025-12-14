@@ -10,7 +10,6 @@
         <ul type="square">
             <li>Java/SpringBoot.</li>
             <li>C#/.Net.</li>
-            <li>C++/QT.</li>
         </ul>
     </li>
 </ul>
