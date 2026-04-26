@@ -84,4 +84,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGalvaoDev&layout=donut&theme=blue-green" width="40%">
 </div>
 
-![GitHub Space Shooter](space-shooter.gif)
+![GitHub Space Shooter](game.gif)
