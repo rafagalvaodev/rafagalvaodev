@@ -83,3 +83,5 @@
     <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="59%" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGalvaoDev&layout=donut&theme=blue-green" width="40%">
 </div>
+
+![GitHub Space Shooter](space-shooter.gif)
